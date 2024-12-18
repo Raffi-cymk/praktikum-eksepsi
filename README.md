@@ -39,11 +39,13 @@ Dalam penanganan file, kita sering menghadapi kemungkinan terjadinya kesalahan, 
 
 Python menyediakan cara aman untuk bekerja dengan file menggunakan mode seperti:
 
-**`r (read)`**: Membuka file untuk membaca.
-**`w (write)`**: Membuka file untuk menulis (menghapus isi lama).
-**`a (append)`**: Membuka file untuk menambahkan konten.
+• **`r (read)`**: Membuka file untuk membaca.
 
-Untuk mencegah program berhenti mendadak saat file tidak ada, kita dapat menangani kesalahan dengan try ... except.
+• **`w (write)`**: Membuka file untuk menulis (menghapus isi lama).
+
+• **`a (append)`**: Membuka file untuk menambahkan konten.
+
+Untuk mencegah program berhenti mendadak saat file tidak ada, kita dapat menangani kesalahan dengan `try ... except`.
 
 ---
 
