@@ -1,4 +1,4 @@
-# praktikum-eksepsi
+# Praktikum Eksepsi 
 1. Apa itu Eksepsi di Python?
 Eksepsi (exception) adalah kesalahan yang terjadi saat program berjalan. Jika tidak ditangani, eksepsi dapat menyebabkan program berhenti mendadak. Beberapa contoh eksepsi umum:
 
